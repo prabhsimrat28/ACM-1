@@ -1,0 +1,16 @@
+body{
+    background-color:#4a5759;
+}
+
+h1{
+    color: #b0c4b1;
+    font-size: 4rem;
+    font-family: cursive ;
+}
+
+p{
+    color:#edafb8;
+font-family: 'Dancing Script';
+    font-size: 1.5rem;
+    font-weight: 700;
+}
